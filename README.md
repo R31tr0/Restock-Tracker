@@ -48,7 +48,7 @@
 | :-----------------------------: | :------------------------------: | :-----------------------: |
 | ![Главный экран](docs/home.png) | ![Редактирование](docs/edit.png) | ![Ошибка](docs/error.png) |
 
-> Если скриншотов станет больше, их можно организовать в отдельную директорию `docs/screens/`.
+
 
 ---
 
@@ -239,8 +239,8 @@ HomeScreen
 ## 👨‍💻 Автор
 
 **Илья Таниди**
-
-Junior–Middle Web Developer
+R31tr0
+Junior Web Developer
 
 ```text
 React • TypeScript • JavaScript • React Native • Expo
