@@ -1,4 +1,4 @@
-# 📱 Coperto Stop-List
+# 📱 Restock-Tracker
 
 ![Status](https://img.shields.io/badge/Status-MVP%20%2F%20Active%20Development-orange)
 ![React Native](https://img.shields.io/badge/React%20Native-0.86.3-61DAFB?logo=react&logoColor=black)
